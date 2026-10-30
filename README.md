@@ -22,3 +22,13 @@ Works with normal Cordova projects
 Cordova Studio is a front-end for the standard Cordova project structure and CLI. Your project is still a standard Cordova project that you can open up in your editor or work with from the command line. The Windows version is focused on Android workflows, the iOS project creation and IPA builds are available in the macOS version.
 
 Cordova Studio — project setup, app settings and Cordova builds all in one place.
+
+Credits for Apache Cordova
+
+• Nitobi – The original development company that built the framework under the name PhoneGap.
+• Brian LeRoux, Kris Hadlock, and the Nitobi Team – The key software engineers and founders who created the original codebase.
+• Adobe Systems – The tech company that acquired Nitobi in 2011 and contributed the core project to the open-source community.
+• Apache Software Foundation – The developer community that currently manages, maintains, and keeps the project open-source under the name Apache Cordova.
+
+Credits for Cordova Studio
+Developer - JJPIE
